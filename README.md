@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Aspiring AI & Data Science Engineer with a passion for building intelligent systems that solve real-world problems. Currently pursuing a B.Tech in Artificial Intelligence & Data Science at Kamaraj College of Engineering, Madurai. Actively engaged in hands-on projects involving AI-powered automation, real-time object detection, and data-driven solutions for domains like fintech, environmental impact assessment, and agentic AI systems.
+
+### Skilled in Python, Java, C, JavaScript, SQL, and modern AI/ML frameworks such as TensorFlow, PyTorch, and Scikit-learn. Experienced in cloud platforms (AWS), DevOps tools (Docker), and full-stack web development. Certified in AWS Cloud Practitioner and Infosys Springboard AI Fundamentals, with a strong foundation in competitive programming and algorithmic problem-solving.
+
+### I aim to leverage my expertise in AI, data science, and cloud-native architectures to create scalable, reliable, and impactful solutions at the intersection of technology, automation, and enterprise innovation.
 <!--
 **rafiqahamedk/rafiqahamedk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
