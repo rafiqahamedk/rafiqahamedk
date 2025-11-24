@@ -1,4 +1,4 @@
-## Hi there 👋
+💫 About Me:
 
 ### Aspiring AI & Data Science Engineer with a passion for building intelligent systems that solve real-world problems. Currently pursuing a B.Tech in Artificial Intelligence & Data Science at Kamaraj College of Engineering, Madurai. Actively engaged in hands-on projects involving AI-powered automation, real-time object detection, and data-driven solutions for domains like fintech, environmental impact assessment, and agentic AI systems.
 
